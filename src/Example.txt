@@ -1,0 +1,18 @@
+You're about to be tested on your master of boolean logic!
+An example of a question you may encounter is: 
+Andy had an apple AND Nicole had a peach.
+when really, Andy had an orange and Nicole had a pear
+
+This question is asking you to evaluate the statement 
+"Andy had an apple AND Nicole had a peach" 
+given that Andy had an orange and Nicole had a pear
+
+"Andy had an apple" 
+this statement is false because he actually had an orange!
+"Nicole had a peach" 
+this statement is also false because she actually had a pear! 
+
+Thus, the question is <false statement> AND <false statement> 
+an AND operator needs both statements to be true in order for the entire 
+expression to be true. 
+So the answer to "Andy had an apple AND Nicole had a peach." is FALSE.

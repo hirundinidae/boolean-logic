@@ -1,0 +1,456 @@
+-----------------------------------------------------------------------------
+|
+|
+|
+|				NOT AND OR 				     
+|
+|			the basic operators of boolean logic		                  
+|
+|
+|
+|
+|
+|
+|									     
+|									      								       
+|							     
+|
+|
+|
+|
+|								       
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 				     
+|									     
+|	NOT : this operator negates a statment			      
+|								     
+|	for example:						     
+|								     
+|	statement : This ISP was created for the ICS3U3 class 		      
+|	this statement is currently true				     
+|							                   
+|								     
+|	if we place a NOT operator before the statment, it becomes       	     
+|								     
+|	NOT (This ISP was created for the ICS3U3 class)		       	     
+|				-or-				     
+|	This ISP was NOT created for the ICS3U3 class		       	     
+|	when this statement is true, the first statement has become false
+|																       									       
+|	note: the exclamation point (!) is often used to denote NOT 							       
+|
+|
+|								       
+|	Press any key to continue.	
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 				      
+|									     
+|	AND : this operator 'combines' 2 conditions 			      	     
+|	(condition 1) AND (condition 2) must be true for the entire statement 	     
+|	to be true 							     
+|									     
+|	for example: 							     
+|	I like red AND I like blue					      	     
+|									     
+|	if "I like red" is false and "I like blue" is false 		      		     
+|	--> "I like red AND I like blue" is false 			       		     
+|	       		     
+|		     
+|			       	  	     
+|		       	     
+|			      		
+|									       
+|									       
+|									       									            
+|
+|									       	       		     									       
+|	Press any key to continue. 					       	     
+------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 				      
+|									     
+|	AND : this operator 'combines' 2 conditions 			      	     
+|	(condition 1) AND (condition 2) must be true for the entire statement 	     
+|	to be true 							     
+|									     
+|	for example: 							     
+|	I like red AND I like blue					      	     
+|									     
+|	if "I like red" is false and "I like blue" is false 		      		     
+|	--> "I like red AND I like blue" is false 			       		     
+|	if "I like red" is true and "I like blue" is false		       		     
+|	--> "I like red AND I like blue" is false (not both parts are true)    		     
+|	       	  	     
+|	     	     
+|									       
+|									       
+|									       
+|									       									       
+|		      		     
+|	       		     
+|	Press any key to continue. 					       	     
+------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 				      
+|									     
+|	AND : this operator 'combines' 2 conditions 			      	     
+|	(condition 1) AND (condition 2) must be true for the entire statement 	     
+|	to be true 							     
+|									     
+|	for example: 							     
+|	I like red AND I like blue					      	     
+|									     
+|	if "I like red" is false and "I like blue" is false 		      		     
+|	--> "I like red AND I like blue" is false 			       		     
+|	if "I like red" is true and "I like blue" is false		       		     
+|	--> "I like red AND I like blue" is false (not both parts are true)    		     
+|	if "I like red" is false and "I like blue" is true 		       	  	     
+|	--> "I like red AND I like blue" is false (not both parts are true)    	       	     
+|		      		     
+|	       		     
+|									       
+|									       									       
+|									       
+|									       
+|	Press any key to continue. 					       	     
+------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 				      
+|									     
+|	AND : this operator 'combines' 2 conditions 			      	     
+|	(condition 1) AND (condition 2) must be true for the entire statement 	     
+|	to be true 							     
+|									     
+|	for example: 							     
+|	I like red AND I like blue					      	     
+|									     
+|	if "I like red" is false and "I like blue" is false 		      		     
+|	--> "I like red AND I like blue" is false 			       		     
+|	if "I like red" is true and "I like blue" is false		       		     
+|	--> "I like red AND I like blue" is false (not both parts are true)    		     
+|	if "I like red" is false and "I like blue" is true 		       	  	     
+|	--> "I like red AND I like blue" is false (not both parts are true)    	       	     
+|	if "I like red" is true and "I like blue" is true		      		     
+|	--> "I like red AND I like blue" is true (both parts are true)	       	
+|									       
+|									       
+|									       									       
+|									       	     
+|	Press any key to continue. 					       	     
+------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									       
+|	We can display the different cases in a table, called a truth table. 								       
+|									       
+|	Truth tables are generally structured like so: 								       
+|			 					       
+|	statement 1	statement 2 	operator applied								       
+|									       
+|  	where of course, there can be many statements, and many operators in a 
+|  	compound statement 								       
+|									       
+|     	the statements can be considered to be the input, and after the 								       
+|     	operator is evaluated, the overall statement's accuracy								       
+|	can be considered to be the output. 
+|
+|
+|									       									       
+|									       
+|	
+|									       								       
+|
+|	Press any key to continue.							       
+--------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									       
+|	Let's place our example in a truth table. 								       
+|									       
+|	the 2 statements would be "I like red" and "I like blue" 								       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       									       
+|									       
+|	
+|									       
+|									       
+|									       
+|									       
+|									       								       
+|									       
+|									       
+|	Press any key to continue.								       
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									       
+|	Let's place our example in a truth table. 								       
+|									       
+|	the 2 statements would be "I like red" and "I like blue" 								       
+|									       
+|	"I like red"	|"I like blue" 	| outcome 								       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|										       
+|									       
+|									       
+|									       
+|									       								       
+|									       
+|									       
+|									       
+|	Press any key to continue.								       
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									       
+|	Let's place our example in a truth table. 								       
+|									       
+|	the 2 statements would be "I like red" and "I like blue" 								       
+|									       
+|	"I like red"	|"I like blue" 	| outcome 								       
+|									       
+|    Now we should try each input value for the 2 statements (both false, 								       
+|    one true, one false, both true, etc) 								       
+|									       
+|									       
+|									       
+|									       
+|									       							       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|	Press any key to continue.								       
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									        
+|	Truth Table 								       
+|									       
+|	"I like red"	|"I like blue" 	| outcome 								       
+|	F		 F		 F									       
+|								       
+|	"When both statements are false, the entire statement if false"
+|									
+|       
+|    	Using our knowledge of how the AND operator works, let's fill in the 
+|	rest of our table									       
+|									       
+|									       
+|	
+|									       
+|									       
+|									       								       
+|									       								       
+|									       
+|
+|	Press any key to continue.								       
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									        
+|	Truth Table 								       
+|									       
+|	"I like red"	|"I like blue" 	| outcome 								       
+|	F		|F		|F									       
+|	T		|F		|F							       
+|	F		|T 		|F
+|	T		|T  		|T								
+|       
+|    	
+|										       
+|									       
+|									       
+|									       
+|									       
+|	
+|									       
+|									       
+|									       
+|									       
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									        
+|	Truth Table 								       
+|									       
+|	"I like red"	|"I like blue" 	| outcome 								       
+|	F		|F		|F									       
+|	T		|F		|F							       
+|	F		|T 		|F
+|	T		|T  		|T								
+|       
+|    	
+|	Let's fill in the truth table for the NOT operator with our 									       
+|	previous example 								       
+|									       
+|									       
+|									       
+|	
+|									       
+|									       
+|									       
+|									       
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									        
+|	Truth Table 								       
+|	"I like red AND I like blue" 								       
+|	"I like red"	|"I like blue" 	| outcome 								       
+|	F		|F		|F									       
+|	T		|F		|F							       
+|	F		|T 		|F
+|	T		|T  		|T								
+|       
+|    	
+|	This ISP was NOT created for the ICS3U3 class. 									       
+|	"This ISP was created for the ICS3U3 class" 	| outcome 								       
+|	F ("no it was not ")				|T			       
+|	T ("yes it was")				|F			       
+|									       
+|
+|										       
+|									       
+|									       
+|									       
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
+|				NOT AND OR 				        
+|									        
+|	OR operator
+|	The OR operator also combines 2 statements or conditions into
+|
+|	1 statement 
+|
+|	In plain English, "or" usually asks for 1 option over another 
+|
+|	The person being asked can choose 1 option or the other, or none. 
+|								
+|	So if statement 1 or statement 2 is true, the whole statement is true.       
+|    	
+|	In boolean logic, the possibility of choosing BOTH options 									       
+|	also produces a true statement 								       
+|									       
+|	Let's see this is a truth table. 								       									       
+|
+|									       
+|									       
+|									       									       									       
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 
+|									       
+|									       
+|	Andy wants hot chocolate OR Andy wants tea. 								       
+|									       
+|									       
+|	"Andy wants hot chocolate" 	|"Andy wants tea"	|outcome								       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       									       
+|	
+|								       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 
+|									       
+|									       
+|	Andy wants hot chocolate OR Andy wants tea. 								       
+|									       
+|									       
+|	"Andy wants hot chocolate" 	|"Andy wants tea"	|outcome								       
+|	F (he doesn't) 			| F (he doesn't) 	| F								       
+|					|			|			       
+|	T (he does) 			| F (he doesn't) 	| T							       
+|							       
+|				       
+|									       
+|									       
+|									       
+|									       									       
+|									       
+|
+|
+|
+|
+|	Press any key to continue.								       
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 
+|									       
+|									       
+|	Andy wants hot chocolate OR Andy wants tea. 								       
+|									       
+|									       
+|	"Andy wants hot chocolate" 	|"Andy wants tea"	|outcome								       
+|	F (he doesn't) 			| F (he doesn't) 	| F								       
+|					|			|			       
+|	T (he does) 			| F (he doesn't) 	| T							       
+|					|			|			       
+|	F (he doesn't)			|T (he does)		| T			       
+|									       
+|									       
+|									       
+|									       
+|									       									       
+|
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				NOT AND OR 
+|									       
+|									       
+|	Andy wants hot chocolate OR Andy wants tea. 								       
+|									       
+|									       
+|	"Andy wants hot chocolate" 	|"Andy wants tea"	|outcome								       
+|	F (he doesn't) 			| F (he doesn't) 	| F								       
+|					|			|			       
+|	T (he does) 			| F (he doesn't) 	| T							       
+|					|			|			       
+|	F (he doesn't)			|T (he does)		| T			       
+|					|			|			       
+|	T (he does)			|T (he does)		| T			       
+|									       
+|									       
+|									       
+|
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 

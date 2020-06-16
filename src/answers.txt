@@ -1,0 +1,209 @@
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE 
+FALSE 
+Cannot be determined
+I don't know 
+TRUE 
+FALSE 
+Cannot be determined
+I don't know 
+FALSE 
+TRUE 
+I don't know
+Neither
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+FALSE 
+TRUE 
+I don't know
+Neither
+FALSE  
+TRUE 
+I don't know
+Neither
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+FALSE  
+Maybe both 
+Neither 
+TRUE
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+FALSE  
+TRUE 
+I don't know
+Neither
+TRUE 
+FALSE 
+Skip this question 
+Unknown 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+FALSE  
+TRUE 
+I don't know
+Neither
+FALSE  
+TRUE 
+I don't know
+Neither
+FALSE  
+Maybe both 
+Neither 
+TRUE
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+FALSE  
+Maybe both 
+Neither 
+TRUE
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+TRUE 
+FALSE 
+Skip this question 
+Unknown 
+TRUE 
+FALSE 
+Cannot be determined
+I don't know 
+FALSE  
+Maybe both 
+Neither 
+TRUE
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+FALSE  
+TRUE 
+I don't know 
+Skip this question
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+TRUE  
+FALSE 
+Cannot be determined
+I don't know 
+FALSE  
+Maybe both 
+Neither 
+TRUE
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+FALSE  
+Maybe both 
+Neither 
+TRUE
+TRUE  
+FALSE 
+Skip this question 
+Unknown
+A is TRUE, B is TRUE 
+A is FALASE, B is FALSE  
+X cannot be FALSE and Y cannot be FALSE 
+A is FALSE, B is FALSE 
+

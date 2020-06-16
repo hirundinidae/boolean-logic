@@ -1,0 +1,114 @@
+Questions and answers 
+T/F questions 
+1. !Y when the statement Y is TRUE 
+FALSE
+2. !X when the statement  X is FALSE 
+TRUE
+3. NOT (jdk) when the statement jdk is FALSE 
+TRUE
+4. NOT (HJA) when HJA represents a statement that is TRUE 
+FALSE
+5. !(ELMNO) when ELMNO represents a statement that is FALSE 
+TRUE
+6. !(it is raining today) when it is raining today 
+FALSE
+7. !(it is raining today) when it is NOT raining today 
+TRUE
+8. NOT (the sky is purple) when the sky is blue 
+TRUE 
+9. Jake is not wearing blue pants when Jake is wearing purple pants 
+TRUE 
+10. NOT (Andy is holding a pencil) when Andy holds a pen 
+TRUE 
+11. A AND B when the statement A is true and the statement B is false 
+FALSE 
+12. C AND D when the statement C  is false and the statement D  is false
+FALSE 
+13. F AND W when the statement F  is false and the statement W  is true 
+FALSE
+14. Z AND X when the statement Z is true and the statement X is true 
+TRUE 
+15. Y AND R - Y is true, R  is true 
+TRUE 
+16. LG AND TG - LG is TRUE, TG is TRUE 
+TRUE 
+17. DH AND GO - DH is FALSE, GO is FALSE
+FALSE
+18. TN AND SK - TN is TRUE, SK is TRUE
+TRUE
+19. XW AND FD - XW is false, FD is false
+FALSE 
+20. WT AND RD - WT is true, RD is true
+TRUE
+21. "I talked to Sharon AND Terrence" I talked to Sharon only
+FALSE
+22. "I loaded the dishwasher AND warmed the chicken" - I did neither 
+FALSE
+23. "I clapped AND cheered" - I did clap and cheer 
+TRUE
+24. "I saved the file AND I made a copy" I saved the file but didn't copy it
+FALSE
+25. "He threw it out AND closed the lid" He did throw it out and close the lid
+TRUE
+26. H OR J, H is true, J is false 
+TRUE
+27. J OR L, J is true, L is true 
+TRUE
+28. K OR E, K is true, E is true
+TRUE
+29. A OR U, A is false, U is false
+FALSE
+30. L OR S, L is false, S is false  
+FALSE
+31. H OR K, H is false, K is false  
+FALSE
+32. H OR R, H is true, R is true  
+TRUE
+33. IB OR DU, IB is false, DU is true
+TRUE
+34. DA OR JK DA is true, JK is true
+TRUE
+35. CP OR SA CP is true, SA is false 
+TRUE
+36. "I bought these shoes OR those shorts", when I bought neither. 
+FALSE
+37. "I ran 3 miles OR I squatted 45 lbs" I ran 3 miles, but didn't squat 
+TRUE
+38. "Sandy wrote the essay OR studied for her quiz" Sandy did both 
+TRUE
+39. "Harlow spoke to Henry OR Sam" 	Harlow spoke to Henry and she spoke to Sam
+TRUE
+40. "They bought train OR plane tickets" They only bought train tickets
+TRUE
+41. !(A OR B) when A is true, B is false 
+FALSE
+42. NOT(A AND B) OR C when A is false, B is true, C is true
+TRUE 
+43. (Z AND G) AND J when Z is true, G is true, J is true 
+TRUE 
+44. (E OR G) AND I when E is true, G is false, I is true 
+TRUE 
+45. R AND (L AND O) when R is true, L is false, O is true
+FALSE
+46. (Z OR O) AND (B AND W) - Z = TRUE, O = FALSE, B = TRUE, W = TRUE
+TRUE 
+47. IA AND (B OR H) when IA is true, B is false, H is true 
+TRUE
+48. !((M AND Q) OR (X AND B)) - M = TRUE, Q = FALSE, X = TRUE, B = TRUE
+FALSE
+49. ((O AND M) AND T ) OR N - O = TRUE, M = TRUE, T = TRUE, N = TRUE 
+TRUE
+50. (!(Y AND !C) OR (N AND S)) - Y = TRUE, C = FALSE, N = TRUE, S = FALSE
+FALSE
+
+Know the input questions 
+51. Given that !N is false, what is the value of N? 
+TRUE
+52. Given that A AND B is true, what is the value of A? B? 
+A is TRUE, B is TRUE 
+53. Given that A OR B is false, what is the value of A? B? 
+A is FALSE, B is FALSE
+54. Given that X OR Y is true, what cannot be the values of X and Y? 
+X cannot be FALSE and Y cannot be FALSE
+55. Given that !(A OR B) is true, what can A represent? B? \
+A is FALSE, B is FALSE  

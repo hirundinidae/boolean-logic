@@ -1,0 +1,888 @@
+-----------------------------------------------------------------------------
+|
+|				Combining Operators 	
+|									       
+|									       
+|									       
+|									       
+|		using multiple boolean operators 
+|									       
+|									       
+|		evaluating input and output 
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|		The 3 basic operators NOT, AND, OR can be used
+|									       
+|									       
+|		together to perform more complicated operations.
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------  
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|		The 3 basic operators NOT, AND, OR can be used
+|									       
+|									       
+|		together to perform more complicated operations.
+|									       
+|	For example, an english statement using multiple operators could be
+|									       
+|									       
+|		Joe does NOT like blue AND he does NOT like pink.
+|									       
+|									       
+|			
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|		The 3 basic operators NOT, AND, OR can be used
+|									       
+|									       
+|		together to perform more complicated operations.
+|									       
+|	For example, an english statement using multiple operators could be
+|									       
+|									       
+|		Joe does NOT like blue AND he does NOT like pink.
+|									       
+|									       
+|		(this sentence uses the operators NOT and AND) 	
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|		The 3 basic operators NOT, AND, OR can be used
+|									       
+|									       
+|		together to perform more complicated operations.
+|									       
+|	For example, an english statement using multiple operators could be
+|									       
+|									       
+|		Joe does NOT like blue AND he does NOT like pink.
+|									       
+|									       
+|	We can represent the statement "Joe likes blue" with the variable 
+|	A, and "Joe likes pink" with B. 
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|		The 3 basic operators NOT, AND, OR can be used
+|									       
+|									       
+|		together to perform more complicated operations.
+|									       
+|	For example, an english statement using multiple operators could be
+|									       
+|									       
+|		Joe does NOT like blue AND he does NOT like pink.
+|									       
+|									       
+|	We can represent the statement "Joe likes blue" with the variable 	
+|	A, and "Joe likes pink" with B. 
+|									       
+|	The above statement can be rewritten as:
+|									       
+|				!A AND !B
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       
+|	all the possible inputs:
+|									       
+|	A	|B
+|	F	|F
+|	T	|F
+|	F	|T
+|	T 	|T
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       	
+|			now, evaluate !A and !B individually
+|	A	|B
+|	F	|F
+|	T	|F
+|	F	|T
+|	T 	|T
+|
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       	
+|			
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F
+|	T 	|T	|F 	|F	|F
+|
+|								
+|				now let's evaluate !A AND !B
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       	
+|			
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	<-------------
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            this case produces
+|	T 	|T	|F 	|F	|F		a true outcome 
+|
+|								
+|				
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       	
+|			
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	<-------------
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            this case produces
+|	T 	|T	|F 	|F	|F		a true outcome 
+|
+|								
+|				
+|	Another way to say "Joe does NOT like blue and Joe does NOT like
+|									       
+|	pink" is "Joe does not like blue OR pink".
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       	
+|			
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	<-------------
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            this case produces
+|	T 	|T	|F 	|F	|F		a true outcome 
+|
+|								
+|				
+|	Another way to say "Joe does NOT like blue and Joe does NOT like
+|									       
+|	pink" is "Joe does not like blue OR pink".
+|									       
+|									       
+|	Let's see if this is the same in boolean logic. 
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									
+|			
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F          
+|	T 	|T	|F 	|F	|F		
+|								
+|	
+|									       
+|	Let's represent "Joe does not like blue OR pink" with boolean 
+|	operators. 							
+|		
+|
+|							       
+|	
+|
+|
+|	Press any key to continue.
+----------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									       	
+|			
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|
+|	
+|					
+|		
+|	
+|							       
+|	
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	
+|	Let's represent !A AND !B in a truth table 
+|									
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|
+|	in a truth table, let's start with the possible inputs 
+|			
+|	A	|B	
+|	F	|F		
+|	T	|F		
+|	F	|T	           
+|	T 	|T			
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|
+|	now let's evaluate A OR B 
+|			
+|	A	|B	|A OR B	
+|	F	|F	|F
+|	T	|F	|T
+|	F	|T	|T
+|	T 	|T	|T
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|
+|	and finally, !(A OR B) 
+|			
+|	A	|B	|A OR B		|!(A OR B) 
+|	F	|F	|F		|T
+|	T	|F	|T		|F
+|	F	|T	|T		|F
+|	T 	|T	|T		|F
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|
+|			
+|	A	|B	|A OR B		|!(A OR B) 
+|	F	|F	|F		|T	<------- true outcome
+|	T	|F	|T		|F
+|	F	|T	|T		|F
+|	T 	|T	|T		|F
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	Let's represent !A AND !B in a truth table 
+|									
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|	
+|	A	|B	|A OR B		|!(A OR B) 
+|	F	|F	|F		|T	
+|	T	|F	|T		|F
+|	F	|T	|T		|F
+|	T 	|T	|T		|F
+|
+|	We can see that the truth table outcomes are the same for 
+|	< !A AND !B > and < !(A OR B) > ! 
+|	
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|
+|	A	|B	|!A	|!B	|!A AND !B
+|	F	|F	|T	|T	|T	
+|	T	|F	|F	|T	|F	
+|	F	|T	|T	|F	|F            
+|	T 	|T	|F 	|F	|F		
+|								
+|	Joe does not like (blue OR pink) == !(A OR B) 
+|	
+|	A	|B	|A OR B		|!(A OR B) 
+|	F	|F	|F		|T	
+|	T	|F	|T		|F
+|	F	|T	|T		|F
+|	T 	|T	|T		|F
+|
+|	!A AND !B == !(A OR B)  
+|	
+|	^^
+|	This property is known as Demorgan's law. 
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	Let's explore the outcomes of another compound expression, 
+|	step by step. 				
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue. 
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	Let's explore the outcomes of another compound expression, 
+|	step by step. 				
+|									       
+|	(!(A OR B)) AND C
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	Let's explore the outcomes of another compound expression, 
+|	step by step. 				
+|									       
+|	(!(A OR B)) AND C
+|									       
+|	In english this might be a statement saying 
+|									       
+|	"Not option 1 or option 2, and option 3" 
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	Let's explore the outcomes of another compound expression, 
+|	step by step. 				
+|									       
+|	(!(A OR B)) AND C
+|									       
+|	In english this might be a statement saying 
+|									       
+|	"Not option 1 or option 2, and option 3" 
+|									       
+|	such as, He is not tall not scary, and he is kind. 
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+----------------------------------------------------------------------------|
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|	filling in all the possible inputs 		
+|	A	|B	|C
+|	F	|F	|F				       
+|	T	|F	|F
+|	F	|T	|F						       
+|	F	|F	|T
+|	T	|T	|F						       
+|	F	|T	|T
+|	T	|F	|T						       
+|	T	|T	|T						       
+|								       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+----------------------------------------------------------------------------|
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|	evaluating A OR B using the appropriate columns  		
+|	A	|B	|C	|A OR B
+|	F	|F	|F	|F			       
+|	T	|F	|F	|T
+|	F	|T	|F	|T					       
+|	F	|F	|T	|F
+|	T	|T	|F	|T					       
+|	F	|T	|T	|T
+|	T	|F	|T	|T					       
+|	T	|T	|T	|T					       
+|								       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+----------------------------------------------------------------------------|
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|	evaluating !(A OR B) by referring to the A OR B column 		
+|	A	|B	|C	|A OR B		|!(A OR B) 
+|	F	|F	|F	|F		|T	       
+|	T	|F	|F	|T		|F
+|	F	|T	|F	|T		|F			       
+|	F	|F	|T	|F		|T
+|	T	|T	|F	|T		|F			       
+|	F	|T	|T	|T		|F
+|	T	|F	|T	|T		|F			       
+|	T	|T	|T	|T		|F			       
+|								       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue. 
+-----------------------------------------------------------------------------
+----------------------------------------------------------------------------|
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|	evaluating (!(A OR B)) AND C where !(A OR B) can be regarded as
+|	1 input, and C the other 
+|	(refer to c column, !(A OR B) column) 
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|									       
+|									       
+|									       
+|									       
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T <-- true!
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|								
+|
+|	       
+|	Now we've completed the truth table for (!(A OR B)) AND C!
+|	
+|									       
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T <-- true!
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|	An example of a problem you may encounter could ask for the 
+|	correct output given a set of input. 
+|	       
+|	
+|	
+|									       
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T <-- true!
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|	An example of a problem you may encounter could ask for the 
+|	correct output given a set of input. 
+|	for example, What is the output when A, B and C are all true?        
+|	
+|	
+|									       
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T <-- true!
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|	for example, What is the output when A, B and C are all true?        
+|	
+|	simply enter those inputs (A, B and C are true) and evaluate. 
+|					
+|
+|				       
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T 
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|	for example, What is the output when A, B and C are all true?        
+|	
+|	simply enter those inputs (A, B and C are true) and evaluate. 
+|					
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|				       
+|
+|	Press any key to continue. 
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|	 
+|	(!(A OR B)) AND C
+|
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	F	|F	|F	|F		|T	       	|F
+|	T	|F	|F	|T		|F		|F
+|	F	|T	|F	|T		|F		|F	       
+|	F	|F	|T	|F		|T		|T 
+|	T	|T	|F	|T		|F		|F	       
+|	F	|T	|T	|T		|F		|F
+|	T	|F	|T	|T		|F		|F	       
+|	T	|T	|T	|T		|F		|F	       
+|								       
+|	for example, What is the output when A, B and C are all true?        
+|	
+|	simply enter those inputs (A, B and C are true) and evaluate. 
+|					
+|	A	|B	|C	|A OR B		|!(A OR B) 	|AND C
+|	T	|T	|T	|T		|F		|F <-- false
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	To review, boolean operators NOT, AND and OR can be combined
+|									       
+|	to represent more complex expressions. 	
+|									       
+|		
+|									       
+|	
+|									       
+|			
+|									       
+|	
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	To review, boolean operators NOT, AND and OR can be combined
+|									       
+|	to represent more complex expressions. 	
+|									       
+|		To evaluate any such expression for all inputs, begin 
+|									       
+|	by writing all the possible inputs in a truth table. 
+|									       
+|		
+|									       
+|	
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|				Combining Operators 
+|									       
+|	To review, boolean operators NOT, AND and OR can be combined
+|									       
+|	to represent more complex expressions. 	
+|									       
+|		To evaluate any such expression for all inputs, begin 
+|									       
+|	by writing all the possible inputs in a truth table. 
+|									       
+|		Evaluate each operation with the priority NOT then AND 	
+|									       
+|	then OR, and performing operations within brackets first. 
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------

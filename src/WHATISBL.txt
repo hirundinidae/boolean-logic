@@ -1,0 +1,240 @@
+-----------------------------------------------------------------------------
+|
+|									       
+|									       
+|			        WHAT IS BOOLEAN LOGIC? 			
+|									       
+|									       
+|			           A brief introduction 				
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|	Simply put, boolean logic is a variety of algebra where all values 		
+|									       
+|	can only be TRUE or FALSE. 						
+|									       
+|									       
+|								       
+|									       
+|									       
+|									       
+|									       
+|									       
+|		            							       
+|		          							       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|	Simply put, boolean logic is a variety of algebra where all values 		
+|									       
+|	can only be TRUE or FALSE. 						
+|									       
+|									       
+|	It is used in designing digital computer circuits. 				
+|									       
+|									       
+|									       
+|									       
+|									       
+|		            							       
+|		          							       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|	Simply put, boolean logic is a variety of algebra where all values 		
+|									       
+|	can only be TRUE or FALSE. 						
+|									       
+|									       
+|	It is used in designing digital computer circuits. 				
+|									
+|									       
+|	Definition: 							
+|									       
+|	Computer Circuit: Path of electron flow in a computer 			
+|		            							       
+|		            the computation of input that are outputted		
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|									       
+|	To furthur grasp boolean logic, let's take a look at some history...		
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|									       
+|	GEORGE BOOLE: an english mathmatician credited with developing		
+|									
+|	modern symbol based algebra of logic known today as  			
+|									   
+|	 			
+|									     
+|	 		
+|									     
+|			
+|									      
+|			
+|									      
+|		
+|									      
+|						
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|									       
+|	GEORGE BOOLE: an english mathmatician credited with developing		
+|									
+|	modern symbol based algebra of logic known today as  			
+|									   
+|	boolean logic. A mostly self taught mathmatician born to 			
+|									     
+|	a shoemaker, Boole went on to become the 1st professor of 		
+|									     
+|			
+|									      
+|			
+|									      
+|		
+|									      
+|						
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|									       
+|	GEORGE BOOLE: an english mathmatician credited with developing		
+|									
+|	modern symbol based algebra of logic known today as  			
+|									   
+|	boolean logic. A mostly self taught mathmatician born to 			
+|									     
+|	a shoemaker, Boole went on to become the 1st professor of 		
+|									     
+|	Mathematics at Queen's College. He believed that logic was more 		
+|									      
+|	closely aligned with mathematics than the previously believed 		
+|									      
+|	 	
+|									      
+|						
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|									       
+|	GEORGE BOOLE: an english mathmatician credited with developing		
+|									
+|	modern symbol based algebra of logic known today as  			
+|									   
+|	boolean logic. A mostly self taught mathmatician born to 			
+|									     
+|	a shoemaker, Boole went on to become the 1st professor of 		
+|									     
+|	Mathematics at Queen's College. He believed that logic was more 		
+|									      
+|	closely aligned with mathematics than the previously believed 		
+|									      
+|	philosophy. His work showed that given any set of terms, it was 	
+|									      
+|	possible to draw conclusions. 					
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+|			    What is boolean logic 
+|									       
+|									       
+|									       
+|	Boole fun fact: 							
+|									       
+|	In 1855, Boole married Mary Everest, the niece of Sir George Everest		
+|									       
+|	who Mount Everest is named after. 					
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|									       
+|
+|
+|
+|	Press any key to continue.
+-----------------------------------------------------------------------------

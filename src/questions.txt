@@ -1,0 +1,55 @@
+!Y when the statement Y is TRUE 
+!X when the statement  X is FALSE 
+NOT (jdk) when the statement jdk is FALSE 
+NOT (HJA) when HJA represents a statement that is TRUE 
+!(ELMNO) when ELMNO represents a statement that is FALSE 
+!(it is raining today) when it is raining today 
+!(it is raining today) when it is NOT raining today 
+NOT (the sky is purple) when the sky is blue 
+Jake is not wearing blue pants when Jake is wearing purple pants 
+NOT (Andy is holding a pencil) when Andy holds a pen 
+A AND B when the statement A is true and the statement B is false 
+C AND D when the statement C  is false and the statement D  is false
+F AND W when the statement F  is false and the statement W  is true 
+Z AND X when the statement Z is true and the statement X is true 
+Y AND R - Y is true, R  is true 
+LG AND TG - LG is TRUE, TG is TRUE 
+DH AND GO - DH is FALSE, GO is FALSE
+TN AND SK - TN is TRUE, SK is TRUE
+XW AND FD - XW is false, FD is false
+WT AND RD - WT is true, RD is true
+"I talked to Sharon AND Terrence" I talked to Sharon only
+"I loaded the dishwasher AND warmed the chicken" - I did neither 
+"I clapped AND cheered" - I did clap and cheer 
+"I saved the file AND I made a copy" I saved the file but didn't copy it
+"He threw it out AND closed the lid" He did throw it out and close the lid
+H OR J, H is true, J is false 
+J OR L, J is true, L is true 
+K OR E, K is true, E is true
+A OR U, A is false, U is false
+L OR S, L is false, S is false  
+H OR K, H is false, K is false  
+H OR R, H is true, R is true  
+IB OR DU, IB is false, DU is true
+DA OR JK DA is true, JK is true
+CP OR SA CP is true, SA is false 
+"I bought these shoes OR those shorts", when I bought neither. 
+"I ran 3 miles OR I squatted 45 lbs" I ran 3 miles, but didn't squat 
+"Sandy wrote the essay OR studied for her quiz" Sandy did both 
+"Harlow spoke to Henry OR Sam" 	Harlow spoke to Henry and she spoke to Sam
+"They bought train OR plane tickets" They only bought train tickets
+!(A OR B) when A is true, B is false 
+NOT(A AND B) OR C when A is false, B is true, C is true
+(Z AND G) AND J when Z is true, G is true, J is true 
+(E OR G) AND I when E is true, G is false, I is true 
+R AND (L AND O) when R is true, L is false, O is true
+(Z OR O) AND (B AND W) - Z = TRUE, O = FALSE, B = TRUE, W = TRUE
+IA AND (B OR H) when IA is true, B is false, H is true 
+!((M AND Q) OR (X AND B)) - M = TRUE, Q = FALSE, X = TRUE, B = TRUE
+((O AND M) AND T ) OR N - O = TRUE, M = TRUE, T = TRUE, N = TRUE 
+(!(Y AND !C) OR (N AND S)) - Y = TRUE, C = FALSE, N = TRUE, S = FALSE
+Given that !N is false, what is the value of N? 
+Given that A AND B is true, what is the value of A? B? 
+Given that A OR B is false, what is the value of A? B? 
+Given that X OR Y is true, what cannot be the values of X and Y? 
+Given that !(A OR B) is true, what can A represent? B?  
